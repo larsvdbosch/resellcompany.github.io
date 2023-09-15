@@ -36,10 +36,9 @@
     
     #navbar {
         
-        font-family: 'Bebas Neue', sans-serif;
+        font-family: 'Handjet', cursive;
         width: 100%;
         height: 100px;
-        border-bottom: 0.5px solid rgb(0, 0, 0);
         background-color: rgb(0, 163, 108);
     
     }
@@ -52,11 +51,12 @@
       }
     
     #logo-1 {
-        font-size: 40px;
+        font-size: 50px;
         line-height: 100px;
         text-align: center;
         display: flex;
         color: rgb(255, 255, 255);
+        font-weight: 800;
         
     }
     .flex-container {
@@ -172,7 +172,7 @@
     #logo-font {
 
         font-size: 15px;
-        font-family: 'Bebas Neue', sans-serif;
+        font-family: 'Handjet', cursive;
         color: rgb(0, 163, 108);;
     
     }
